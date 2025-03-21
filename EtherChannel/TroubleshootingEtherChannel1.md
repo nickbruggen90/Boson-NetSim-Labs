@@ -5,8 +5,7 @@ Due to hardware failure, **CSW1** has been temporarily replaced with a **non-Cis
 can be delivered. Upon installation and configuration of the temporary switch, there is a **noticeable decrease of network 
 bandwidth** between the core and distribution layers. You are provided authorization to the **access and distribution 
 switches**, and you have been asked to determine and correct the problem.
-
-> Example:  
+  
 > In this lab we will verify EtherChannel set-up and modify configurations to allow for a mult-vendor environment
 
 ---

@@ -49,7 +49,11 @@ channel-group 21 mode active
 
 ### 🔹 Verification
 ```cisco
-
+show cdp neighbors
+show etherchannel summary
+show etherchannel port
+show etherchannel port-channel
+show running-configuration
 
 ---
 ### Troubleshooting Notes

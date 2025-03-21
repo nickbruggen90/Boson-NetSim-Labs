@@ -59,7 +59,7 @@ show running-configuration
 ### Troubleshooting Notes
 * Cisco switches use PAgP by default  
 * Non-Cisco switches typically support only LACP or static EtherChannel  
-* PAgP is Cisco proprietary, this was the cause for links to (I) Individual Mode  
+* PAgP is Cisco proprietary, this was the cause for links to *(I) Individual Mode*  
 ✅Fix: Use `mode active` to enable LACP for compatibility with non-Cisco switches  
 
 ---

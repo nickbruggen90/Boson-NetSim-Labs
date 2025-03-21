@@ -6,7 +6,7 @@ While executing load stress testing scenarios, it is discovered that the server 
 Other network traffic appears to not be affected. You have been tasked with finding the reason that the server is unable to utilize 
 the optimal network bandwidth and correcting the problem.
   
-> In this lab we will optimize network traffic by applying the appropriate load balancing techniques
+> In this lab we will optimize network traffic by applying the appropriate load balancing techniques.
 
 ---
 

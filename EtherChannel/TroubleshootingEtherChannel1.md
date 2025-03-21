@@ -47,6 +47,10 @@ no channel-group 21 mode auto
 channel-group 21 mode active
 ```
 
+### 🔹 Verification
+```cisco
+
+
 ---
 ### Troubleshooting Notes
 * Cisco switches use PAgP by default  

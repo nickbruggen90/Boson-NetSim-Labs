@@ -32,7 +32,8 @@ show running-configuration
 conf t  
 interface range f0/9 - 10  
 no channel-group 11 mode auto  
-channel-group 11 mode active  
+channel-group 11 mode active
+```
 
 ### 🔹 DSW2 Verification and Configuration
 en  

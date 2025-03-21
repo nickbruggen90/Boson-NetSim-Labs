@@ -9,3 +9,13 @@ the optimal network bandwidth and correcting the problem.
 > In this lab we will optimize network traffic by applying the appropriate load balancing techniques
 
 ---
+
+## 🖥️ Topology Overview
+![Topology Diagram](https://github.com/nickbruggen90/Network-Labs/blob/main/Screenshot%202025-03-20%20180159.png)
+> Devices involved in EtherChannel configuration: 
+> - DSW1 ↔ CSW1 (EtherChannel bundle)
+> - DSW2 ↔ CSW1 (EtherChannel bundle)
+> - DSW1 ↔ CSW2 (EtherChannel bundle)
+> - DSW2 ↔ CSW2 (EtherChannel bundle)
+
+**CSW1 is the non-Cisco temporary replacement switch**

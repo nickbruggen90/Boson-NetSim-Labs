@@ -57,7 +57,7 @@ channel-group 21 mode active
 ---
 ### Key Takeaways
 * Use LACP (active/passive) instead of PAgP when connecting non-Cisco switches  
-* mode auto will not form an EtherChannel on non-Cisco switches  
+* `mode auto` will not form an EtherChannel on non-Cisco switches  
 * Always double check EtherChannel negotiation protocol compatibility in multi-vendor environments  
 
 ---

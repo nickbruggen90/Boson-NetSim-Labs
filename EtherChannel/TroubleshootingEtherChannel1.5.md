@@ -11,7 +11,7 @@ the optimal network bandwidth and correcting the problem.
 ---
 
 ## 🖥️ Topology Overview
-![Topology Diagram](
+![Topology Diagram](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20160929.png)
 > Devices involved in EtherChannel configuration: 
 > - DSW1 ↔ CSW1 (EtherChannel bundle)
 > - DSW2 ↔ CSW1 (EtherChannel bundle)

@@ -34,14 +34,14 @@ no channel-group 11 mode auto
 channel-group 11 mode active  
 
 ### 🔹 DSW2 Verification and Configuration
-en
-show cdp neighbors
-show etherchannel summary
-show running-configuration
-conf t
-interface range f0/7 - 8
-no channel-group 21 mode auto
-channel-group 21 mode active
+en  
+show cdp neighbors  
+show etherchannel summary  
+show running-configuration  
+conf t  
+interface range f0/7 - 8  
+no channel-group 21 mode auto  
+channel-group 21 mode active  
 
 ### Troubleshooting Notes
 Cisco switches use PAgP by default

@@ -52,7 +52,7 @@ channel-group 21 mode active
 * Cisco switches use PAgP by default  
 * Non-Cisco switches typically support only LACP or static EtherChannel  
 * PAgP is Cisco proprietary, this was the cause for links to (I) Individual Mode  
-✅Fix: use mode active to enable LACP for compatibility with non-Cisco switches  
+✅Fix: Use mode active to enable LACP for compatibility with non-Cisco switches  
 
 ---
 ### Key Takeaways

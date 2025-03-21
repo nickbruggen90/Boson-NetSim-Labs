@@ -13,9 +13,14 @@ the optimal network bandwidth and correcting the problem.
 ## 🖥️ Topology Overview
 ![Topology Diagram](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20160929.png)
 > Devices involved in EtherChannel configuration: 
-> - DSW1 ↔ CSW1 (EtherChannel bundle)
-> - DSW2 ↔ CSW1 (EtherChannel bundle)
-> - DSW1 ↔ CSW2 (EtherChannel bundle)
-> - DSW2 ↔ CSW2 (EtherChannel bundle)
+> - ASW1 ↔ DSW1 (EtherChannel bundle)
+> - DSW1 ↔ ASW2 (EtherChannel bundle)
+> - ASW2 ↔ PC2 (EtherChannel bundle)
+> - ASW2 ↔ DSW2 (EtherChannel bundle)
+> - ASW1 ↔ DSW2 (EtherChannel bundle)
 
-**CSW1 is the non-Cisco temporary replacement switch**
+## ⚙️ Configuration Steps
+
+### 🔹 ASW2 Configuration
+```cisco  
+

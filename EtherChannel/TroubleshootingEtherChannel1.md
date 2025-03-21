@@ -56,7 +56,7 @@ show ip interface brief
 show running-configuration
 ```
 ### Verification Output  
-![show etherchannel summary](https://github.com/nickbruggen90/Network-Labs/blob/main/Images/Screenshot%202025-03-21%20031115.png
+![show etherchannel summary](https://github.com/nickbruggen90/Network-Labs/blob/main/Images/Screenshot%202025-03-21%20031115.png)
 
 ---
 ### Troubleshooting Notes

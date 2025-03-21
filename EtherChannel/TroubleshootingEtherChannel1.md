@@ -36,6 +36,7 @@ channel-group 11 mode active
 ```
 
 ### 🔹 DSW2 Verification and Configuration
+```cisco
 en  
 show cdp neighbors  
 show etherchannel summary  
@@ -43,17 +44,18 @@ show running-configuration
 conf t  
 interface range f0/7 - 8  
 no channel-group 21 mode auto  
-channel-group 21 mode active  
-
+channel-group 21 mode active
+```
+---
 ### Troubleshooting Notes
 Cisco switches use PAgP by default  
 Non-Cisco switches typically support only LACP or static EtherChannel  
 PAgP is Cisco proprietary, this was the cause for links to (I) Individual Mode  
 Fix: use mode active to enable LACP for compatibility with non-Cisco switches  
-
+---
 ### Key Takeaways
 Use LACP (active/passive) instead of PAgP when connecting non-Cisco switches  
 mode auto will not form an EtherChannel on non-Cisco switches  
 Always double check EtherChannel negotiation protocol compatibility in multi-vendor environments  
-
+---
 ### Related Labs

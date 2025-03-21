@@ -54,7 +54,7 @@ show etherchannel summary
 show etherchannel port
 show etherchannel port-channel
 show running-configuration
-
+```
 ---
 ### Troubleshooting Notes
 * Cisco switches use PAgP by default  

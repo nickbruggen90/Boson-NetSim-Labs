@@ -24,7 +24,8 @@ switches**, and you have been asked to determine and correct the problem.
 ## ⚙️ Configuration Steps
 
 ### 🔹 DSW1 Verification and Configuration
-'''en   
+'''cisco 
+en   
 show cdp neighbors  
 show etherchannel summary  
 show running-configuration  

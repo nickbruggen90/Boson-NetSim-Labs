@@ -19,7 +19,7 @@ switches**, and you have been asked to determine and correct the problem.
 > - DSW1 ↔ CSW2 (EtherChannel bundle)
 > - DSW2 ↔ CSW2 (EtherChannel bundle)
 
-### **CSW1 is the non-Cisco temporary replacement switch**
+**CSW1 is the non-Cisco temporary replacement switch**
 
 ## ⚙️ Configuration Steps
 

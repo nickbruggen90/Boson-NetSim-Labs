@@ -24,14 +24,14 @@ switches**, and you have been asked to determine and correct the problem.
 ## ⚙️ Configuration Steps
 
 ### 🔹 DSW1 Verification and Configuration
-en
-show cdp neighbors
-show etherchannel summary
-show running-configuration
-conf t
-interface range f0/9 - 10
-no channel-group 11 mode auto
-channel-group 11 mode active
+en   
+show cdp neighbors  
+show etherchannel summary  
+show running-configuration  
+conf t  
+interface range f0/9 - 10  
+no channel-group 11 mode auto  
+channel-group 11 mode active  
 
 ### 🔹 DSW2 Verification and Configuration
 en

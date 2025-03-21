@@ -57,6 +57,11 @@ show running-configuration
 ```
 ### Verification Output  
 ![show etherchannel summary](https://github.com/nickbruggen90/Network-Labs/blob/main/Images/Screenshot%202025-03-21%20031115.png)
+![show etherchannel port](https://github.com/nickbruggen90/Network-Labs/blob/main/Images/Screenshot%202025-03-21%20031243.png)
+![show etherchannel port](https://github.com/nickbruggen90/Network-Labs/blob/main/Images/Screenshot%202025-03-21%20031255.png)
+![show etherchannel port-channel](https://github.com/nickbruggen90/Network-Labs/blob/main/Images/Screenshot%202025-03-21%20031352.png)
+![show ip interface brief](https://github.com/nickbruggen90/Network-Labs/blob/main/Images/Screenshot%202025-03-21%20031422.png)
+![show running-configuration](https://github.com/nickbruggen90/Network-Labs/blob/main/Images/Screenshot%202025-03-21%20031451.png)
 
 ---
 ### Troubleshooting Notes

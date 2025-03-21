@@ -23,7 +23,7 @@ switches**, and you have been asked to determine and correct the problem.
 
 ## ⚙️ Configuration Steps
 
-### 🔹 DSW1 Verification and Configuration
+### 🔹 DSW1 Configuration
 ```cisco  
 en   
 show cdp neighbors  
@@ -35,7 +35,7 @@ no channel-group 11 mode auto
 channel-group 11 mode active
 ```
 
-### 🔹 DSW2 Verification and Configuration
+### 🔹 DSW2 Configuration
 ```cisco
 en  
 show cdp neighbors  

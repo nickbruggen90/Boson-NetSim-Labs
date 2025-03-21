@@ -11,7 +11,7 @@ the optimal network bandwidth and correcting the problem.
 ---
 
 ## 🖥️ Topology Overview
-![Topology Diagram](https://github.com/nickbruggen90/Network-Labs/blob/main/Screenshot%202025-03-20%20180159.png)
+![Topology Diagram](
 > Devices involved in EtherChannel configuration: 
 > - DSW1 ↔ CSW1 (EtherChannel bundle)
 > - DSW2 ↔ CSW1 (EtherChannel bundle)

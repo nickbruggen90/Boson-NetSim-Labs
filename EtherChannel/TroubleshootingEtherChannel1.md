@@ -12,7 +12,7 @@ switches**, and you have been asked to determine and correct the problem.
 ---
 
 ## 🖥️ Topology Overview
-
+![Topology Diagram](
 > Devices involved in EtherChannel configuration: 
 > - DSW1 ↔ CSW1 (EtherChannel bundle)
 > - DSW2 ↔ CSW1 (EtherChannel bundle)
@@ -55,6 +55,8 @@ show etherchannel port-channel
 show ip interface brief
 show running-configuration
 ```
+### Verification Output  
+
 ---
 ### Troubleshooting Notes
 * Cisco switches use PAgP by default  

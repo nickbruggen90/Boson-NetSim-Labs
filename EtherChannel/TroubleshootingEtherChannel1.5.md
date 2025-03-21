@@ -22,5 +22,15 @@ the optimal network bandwidth and correcting the problem.
 ## ⚙️ Configuration Steps
 
 ### 🔹 ASW2 Configuration
-```cisco  
+```cisco
+en
+show cdp neighbors
+show etherchannel summary
+show mac-address-table
+show ip interfaces g0/1
+```
 
+### 🔹 PC2 Verification
+```cisco
+ipconfig /all
+```

@@ -50,16 +50,11 @@ show interfaces g0/1
 
 ---
 ### Troubleshooting Notes
-* Cisco switches use PAgP by default  
-* Non-Cisco switches typically support only LACP or static EtherChannel  
-* PAgP is Cisco proprietary, this was the cause for links to *(I) Individual Mode*  
-✅Fix: Use `mode active` to enable LACP for compatibility with non-Cisco switches  
+*
 
 ---
 ### Key Takeaways
-* Use LACP (active/passive) instead of PAgP when connecting non-Cisco switches  
-* `mode auto` will not form an EtherChannel on non-Cisco switches  
-* Always double check EtherChannel negotiation protocol compatibility in multi-vendor environments  
+* Load balance on the first switch that is transmitting the data onto the Ether bundle for the edge devices
 
 ---
 ### Related Labs

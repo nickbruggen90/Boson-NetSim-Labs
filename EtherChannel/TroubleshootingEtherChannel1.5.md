@@ -47,3 +47,20 @@ show interfaces g0/1
 ![show mac-address-table](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172103.png)
 ![PC2, ipconfig /all](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172224.png)
 ![show interfaces g0/1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172206.png)
+
+---
+### Troubleshooting Notes
+* Cisco switches use PAgP by default  
+* Non-Cisco switches typically support only LACP or static EtherChannel  
+* PAgP is Cisco proprietary, this was the cause for links to *(I) Individual Mode*  
+✅Fix: Use `mode active` to enable LACP for compatibility with non-Cisco switches  
+
+---
+### Key Takeaways
+* Use LACP (active/passive) instead of PAgP when connecting non-Cisco switches  
+* `mode auto` will not form an EtherChannel on non-Cisco switches  
+* Always double check EtherChannel negotiation protocol compatibility in multi-vendor environments  
+
+---
+### Related Labs
+

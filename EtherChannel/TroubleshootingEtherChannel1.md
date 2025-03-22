@@ -45,8 +45,8 @@ interface range f0/7 - 8
 no channel-group 21 mode auto  
 channel-group 21 mode active
 ```
-
-### 🔹 Verification
+---
+## 🔹 Verification
 ```cisco
 show etherchannel summary
 show etherchannel port

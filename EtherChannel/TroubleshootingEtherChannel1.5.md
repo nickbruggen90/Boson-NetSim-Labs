@@ -38,7 +38,11 @@ exit
 ```cisco
 ipconfig /all
 ```
-
+### 🔹 ASW2 Verification
+```cisco
+show mac-address-table
+show interfaces g0/1
+```
 ### 🔎Verification Output  
 ![show mac-address-table](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172103.png)
 ![PC2, ipconfig /all](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172224.png)

@@ -18,7 +18,7 @@ the optimal network bandwidth and correcting the problem.
 > - ASW2 ↔ PC2 (EtherChannel bundle)
 > - ASW2 ↔ DSW2 (EtherChannel bundle)
 > - ASW1 ↔ DSW2 (EtherChannel bundle)
-
+---
 ## ⚙️ Configuration Steps
 
 ### 🔹 ASW2 Configuration

@@ -28,6 +28,9 @@ show cdp neighbors
 show etherchannel summary
 show mac-address-table
 show ip interfaces g0/1
+conf t
+port-channel load-balance src-dst-mac
+exit
 ```
 
 ### 🔹 PC2 Verification

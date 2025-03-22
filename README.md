@@ -8,3 +8,5 @@ Each lab will include:
 * Verification Commands & Outputs
 * Troubleshooting Notes
 * Key Takeaways
+
+### Featured Labs

@@ -27,7 +27,7 @@ en
 show cdp neighbors
 show etherchannel summary
 show mac-address-table
-show ip interfaces g0/1
+show interfaces g0/1
 conf t
 port-channel load-balance src-dst-mac
 exit
@@ -37,3 +37,8 @@ exit
 ```cisco
 ipconfig /all
 ```
+
+### Verification Output  
+![show mac-address-table](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172103.png)
+![PC2, ipconfig /all](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172224.png)
+![show interfaces g0/1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172206.png)

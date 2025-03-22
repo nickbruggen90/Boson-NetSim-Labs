@@ -39,7 +39,7 @@ exit
 ipconfig /all
 ```
 
-### Verification Output  
+### 🔎Verification Output  
 ![show mac-address-table](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172103.png)
 ![PC2, ipconfig /all](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172224.png)
 ![show interfaces g0/1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-03-21%20172206.png)

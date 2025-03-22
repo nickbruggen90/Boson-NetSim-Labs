@@ -33,7 +33,7 @@ port-channel load-balance src-dst-mac
 exit
 ```
 ---
-## 🔹 Verification
+## ✅ Verification
 ### 🔹 PC2 Verification
 ```cisco
 ipconfig /all

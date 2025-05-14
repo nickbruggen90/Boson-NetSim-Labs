@@ -20,12 +20,16 @@ do show logging
 ```
 ### Switch1
 ```cisco
+em
+conf t
 logging 10.1.0.10
 logging trap 4
 do show logging
 ```
 ### Switch2
 ```cisco
+en
+conf t
 logging 10.1.0.10
 logging trap 4
 do show logging
@@ -38,6 +42,7 @@ do show logging
 ## Verification
 ### Router1 / Switch1 / Switch2
 ```cisco
+en
 show logging
 ```
 

@@ -30,3 +30,17 @@ logging 10.1.0.10
 logging trap 4
 do show logging
 ```
+![switch1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-14%20042745.png)
+![switch2](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-14%20042840.png)
+
+---
+
+## Verification
+### Router1 / Switch1 / Switch2
+```cisco
+show logging
+```
+
+### Verification Output
+![switch1_verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-14%20042759.png)
+![switch2_verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-14%20042903.png)

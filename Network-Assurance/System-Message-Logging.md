@@ -18,3 +18,15 @@ logging 10.1.0.10
 logging trap 4
 do show logging
 ```
+### Switch1
+```cisco
+logging 10.1.0.10
+logging trap 4
+do show logging
+```
+### Switch2
+```cisco
+logging 10.1.0.10
+logging trap 4
+do show logging
+```

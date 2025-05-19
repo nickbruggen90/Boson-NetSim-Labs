@@ -54,6 +54,13 @@ area 2 range 192.168.2.0 255.255.255.192
 ---
 
 ## Verification
+```cisco
+show ip ospf
+show ip route
+show ip route ospf
+show ip ospf database
+show ip ospf neighbor
+```
 ![show ip ospf 1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-19%20083507.png)
 ![show ip ospf 2](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-19%20083513.png)
 ![show ip route](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-19%20083526.png)

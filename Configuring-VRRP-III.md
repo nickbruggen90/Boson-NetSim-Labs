@@ -40,3 +40,4 @@ vrrp 2 ip 10.10.200.1
 show vrrp
 ```
 ![DSW2 verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20124716.png)
+

@@ -54,3 +54,4 @@ show ip ospf interface f0/0
 ![P1R3 3](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20081911.png)
 ![P1R3 4](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20081955.png)
 ![P1R3 5](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20082019.png)
+

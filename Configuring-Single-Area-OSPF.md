@@ -5,6 +5,7 @@ Configure the network to use Open Shortest Path First (OSPF) for a single area. 
 
 ## Lab Topology
 The topology diagram below represents the NetMap in the Simulator. Configure the devices in Pod 1; Pod 2 has already been configured upon the initial loading of the lab.
+
 ![topology pic](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20081340.png)
 ![connections chart](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20081444.png)
 

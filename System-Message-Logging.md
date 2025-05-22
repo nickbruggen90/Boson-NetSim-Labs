@@ -49,3 +49,4 @@ show logging
 ### Verification Output
 ![switch1_verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-14%20042759.png)
 ![switch2_verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-14%20042903.png)
+

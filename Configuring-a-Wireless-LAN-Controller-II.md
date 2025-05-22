@@ -25,3 +25,4 @@ For this lab, your network design will include a Catalyst 3550 switch named WSW,
 ![19](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-21%20160425.png)
 ![20](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-21%20160439.png)
 ![21](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-21%20160446.png)
+

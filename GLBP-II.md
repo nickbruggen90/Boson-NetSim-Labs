@@ -5,6 +5,7 @@ In this lab, you will configure and verify a basic Gateway Load Balancing Protoc
 
 ## Lab Topology
 The topology diagram below represents the NetMap in the Simulator:
+
 ![topology](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20141141.png)
 ![connections chart 1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20141205.png)
 ![connections chart 2](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20141211.png)

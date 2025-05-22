@@ -57,3 +57,4 @@ show glbp brief
 ```
 ![R1 verification 2](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20141733.png)
 ![R1 verification 2](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20141746.png)
+

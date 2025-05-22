@@ -61,3 +61,4 @@ show interfaces f0/5
 ![DSW1 4](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20130215.png)
 ![DSW1 5](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20130235.png)
 ![DSW1 6](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20130253.png)
+

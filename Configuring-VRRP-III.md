@@ -6,6 +6,7 @@ Configure Virtual Router Redundancy Protocol (VRRP), and verify the configuratio
 ## Lab Topology
 The topology diagram below represents the NetMap in the Simulator. For this lab, your network design includes four switches: ASW1, ASW2, DSW1, and DSW2. ASW1 and ASW2 are Layer 2 switches, and DSW1 and DSW2 are Layer 3 switches. DSW1 and DSW2 will be referred to as routers throughout the lab. Layer 3 switches are capable of transmitting data at Layer 2 switch speeds but can also determine for themselves how traffic should flow at Layer 3.
 ![topology pic](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20124409.png)
+
 ![connections chart 1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20124418.png)
 ![connections chart 2](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20124425.png)
 

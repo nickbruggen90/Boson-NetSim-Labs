@@ -44,4 +44,3 @@ exit
 aaa authentication enable default group tacacs+ enable
 ```
 ![hq commands](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-19%20075301.png)
-

@@ -44,3 +44,4 @@ show standby brief
 ```
 ![verification 1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20063622.png)
 ![verification 2](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20063639.png)
+

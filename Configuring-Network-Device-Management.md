@@ -96,3 +96,4 @@ show snmp host
 show snmp location
 ```
 ![verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-19%20091126.png)
+

@@ -7,6 +7,7 @@ In this lab, you will configure and verify Gateway Load Balancing Protocol (GLBP
 The topology diagram below represents the NetMap in the Simulator:
 
 ![topology](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20144255.png)
+
 ![connections chart 1](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20144306.png)
 ![connections chart 2](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20144314.png)
 

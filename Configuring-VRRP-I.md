@@ -62,3 +62,4 @@ show vrrp
 ```
 ![DSW1 verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20115306.png)
 ![DSW2 verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20115328.png)
+

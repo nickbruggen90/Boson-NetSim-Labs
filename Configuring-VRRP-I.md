@@ -56,7 +56,7 @@ ipconfig /dg 172.16.3.1
 
 ---
 
-### Verification
+## Verification
 ```cisco
 show vrrp
 ```

@@ -10,5 +10,3 @@ You will find the following sections alongside the labs:
 * Key Takeaways
 
 ### Featured Labs
-OSPF
-NetFlow

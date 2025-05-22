@@ -73,3 +73,4 @@ show ip ospf neighbor
 ![P2R1 4](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20071934.png)
 ![P2R1 5](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20071948.png)
 ![P2R1 6](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-22%20072000.png)
+

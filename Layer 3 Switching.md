@@ -11,7 +11,7 @@ The topology diagram below represents the NetMap in the Simulator:
 ![connections chart 2](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20120239.png)
 ![connections chart 3](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20120245.png)
 
---
+---
 
 ## Configuration Steps
 ### P1ASW1

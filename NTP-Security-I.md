@@ -9,6 +9,7 @@ Note: You should allow time for NTP polling interval expirations in several step
 The topology diagram below represents the NetMap in the Simulator.
 
 ![topology](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20123452.png)
+
 ![connections chart 1](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20123509.png)
 ![connecyions chart 2](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20123514.png)
 

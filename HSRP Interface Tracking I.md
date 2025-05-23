@@ -5,6 +5,7 @@ In this lab, you will configure interface tracking in a Hot Standby Router Proto
 
 # Lab Topology
 The topology diagram below represents the NetMap in the Simulator.
+
 ![topology](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20110055.png)
 ![connections chart](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20110110.png)
 

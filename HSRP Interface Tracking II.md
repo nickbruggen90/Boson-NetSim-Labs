@@ -5,6 +5,7 @@ In this lab, you will configure Hot Standby Router Protocol (HSRP) and interface
 
 ## Lab Topology
 The topology diagram below represents the NetMap in the Simulator.
+
 ![topology](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20111510.png)
 ![connections chart 1](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20111518.png)
 ![connections chart 2](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-23%20111531.png)

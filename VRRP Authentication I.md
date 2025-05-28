@@ -25,7 +25,7 @@ vrrp 2 ip 10.10.2.3
 no vrrp 2 authentication text 80$0nL48
 vrrp 2 authentication md5 key-string my80$0nL485
 ```
-![DSW1 commands[(https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-28%20082021.png)
+![DSW1 commands][(https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-28%20082021.png)
 
 ### DSW2
 ```cisco

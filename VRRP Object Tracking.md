@@ -6,6 +6,7 @@ In this lab, you will configure a Virtual Router Redundancy Protocol (VRRP) envi
 ## Lab Topology
 The topology diagram below represents the NetMap in the Simulator. The VRRP routers in this topology are Layer 3 switches that will be referred to as routers throughout the lab. Layer 3 switches are capable of transmitting data at Layer 2 switch speeds but can also determine for themselves how traffic should flow at Layer 3.
 ![topology](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-28%20072107.png)
+
 ![connections chart 1](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-28%20072115.png)
 ![connections chart 2](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images2/Screenshot%202025-05-28%20072131.png)
 

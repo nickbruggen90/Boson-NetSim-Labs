@@ -14,7 +14,7 @@ The topology diagram below represents the NetMap in the Simulator:
 
 ## Troubleshooting Steps
 ### SecondFloor
-#### Debug
+## Debug
 ```cisco
 debug ip ospf events
 ```
@@ -22,7 +22,7 @@ debug ip ospf events
 
 ---
 
-#### Verification
+## Verification
 ```cisco
 show ip ospf neighbor
 show ip ospf database
@@ -40,7 +40,7 @@ show ip protocols
 
 ---
 
-#### Fix
+## Fix
 ```cisco
 conf t
 router ospf 1

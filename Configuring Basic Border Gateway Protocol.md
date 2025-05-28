@@ -7,6 +7,7 @@ Configure P1R1 and P1R2; P1R3 will not be configured in this lab. Pod 2 has alre
 
 ## Lab Topology
 The topology diagram below represents the NetMap in the Simulator.
+
 ![topology](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images3/Screenshot%202025-05-28%20104810.png)
 
 ![connections chart 1](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images3/Screenshot%202025-05-28%20104815.png)

@@ -6,6 +6,7 @@ In this lab, you will learn to use what you know about Layer 2 EtherChannel and 
 ## Lab Topology
 The topology diagram below represents the NetMap in the Simulator.
 ![topology](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images3/Screenshot%202025-05-31%20142038.png)
+
 ![connections chart 1](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images3/Screenshot%202025-05-31%20142050.png)
 ![connections chart 2](https://github.com/nickbruggen90/Boson-NetSim-Labs/blob/main/Images3/Screenshot%202025-05-31%20142057.png)
 

@@ -35,7 +35,7 @@ ip flow destination 4.3.2.1 8888 sctp
 en
 show ip flow interface
 show ip flow export
-how ip cache flow
+show ip cache flow
 ```
 
 ![router1_verification](https://github.com/nickbruggen90/Boson-Network-Labs/blob/main/Images/Screenshot%202025-05-14%20045449.png)

@@ -1,20 +1,28 @@
 # Boson NetSim Lab Documentation
 
-**Comprehensive networking lab scenarios and configurations from Boson NetSim for CCNA preparation and network engineering skill development.**
+**Comprehensive networking lab scenarios and configurations for CCNA preparation and real-world skill development.**
 
 ---
 
 ## Repository Overview
 
-This repository contains hands-on lab documentation covering real-world networking scenarios using Boson NetSim. Each lab is designed to reinforce fundamental networking concepts and provide practical configuration experience with Cisco technologies.
+This repository contains step-by-step documentation for labs performed using **Boson NetSim**. Each scenario reinforces Cisco networking concepts through hands-on configuration, verification, and troubleshooting.
+
+---
 
 ## Lab Structure
 
-Each lab includes the following comprehensive sections:
+Each lab includes the following standardized sections:
 
-- ** Scenario Overview** - Lab objectives and learning goals
-- ** Topology Diagram** - Visual network layout and device connections  
-- ** Configuration Steps** - Step-by-step commands and implementation
-- ** Verification Commands** - Testing procedures and expected outputs
-- ** Troubleshooting Notes** - Common issues and resolution strategies
-- ** Key Takeaways** - Essential concepts and best practices
+- **Scenario Overview** – Lab objectives and learning goals  
+- **Topology Diagram** – Visual network layout and device roles  
+- **Configuration Steps** – CLI commands and implementation guidance  
+- **Verification Commands** – Output examples and validation checks  
+- **Troubleshooting Notes** – Common pitfalls and how to resolve them  
+- **Key Takeaways** – Core concepts and best practices reviewed  
+
+---
+
+## Status
+
+This repository is actively maintained and grows as new Boson labs are completed. Contributions from peers studying with Boson are welcome.
